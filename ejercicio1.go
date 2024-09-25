@@ -103,5 +103,5 @@ func main() {
 	//convertbooltostring()
 	//tipos_variables()
 	//valor_por_defecto()
-	fmt.Printf("El area del circulo con radio 5 es: %.2f\n", area(5))
+	fmt.Printf("El area del circulo con radio 5 es: %.2f\n", area(5))cd 
 }
